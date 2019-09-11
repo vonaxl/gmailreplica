@@ -5,7 +5,7 @@ body{
   background-size: cover;
 }
 
-/* Non volevo modificare lo spazio modificando la proprietà della body quindi ho creato una div con questa class */
+/* Non volevo modificare lo spazio modificando la proprietà della body quindi ho creato una div con questa class  */
 .padding{
   padding-left: 25%;
   padding-right: 25%;
